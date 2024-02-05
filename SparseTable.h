@@ -77,4 +77,5 @@ private:
   size_t _log_size;
   std::vector<int> _deg;
   std::vector<std::vector<T>> _sparse;
+
 };
